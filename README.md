@@ -1,4 +1,4 @@
 # trial
 This is a trial Repository.
 <br>
-Author - Om Vispute
+Author - Om Vispute (LG)
